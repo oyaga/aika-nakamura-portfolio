@@ -1,0 +1,4 @@
+const e = ".loading-fallback[data-v-60347929]{align-items:center;background:linear-gradient(135deg,#f97316,#ea580c);color:#fff;display:flex;justify-content:center;min-height:100vh}.loading-content[data-v-60347929]{padding:2rem;text-align:center}.loading-spinner[data-v-60347929]{animation:spin-60347929 1s linear infinite;border:3px solid hsla(0,0%,100%,.3);border-radius:50%;border-top-color:#fff;height:40px;margin:0 auto 1rem;width:40px}@keyframes spin-60347929{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.loading-content p[data-v-60347929]{font-size:1.1rem;font-weight:500;margin:0;opacity:.9}";
+
+export { e };
+//# sourceMappingURL=index-styles-1.mjs-C4FE0c-X.mjs.map

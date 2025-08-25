@@ -43,6 +43,7 @@ export default defineNuxtConfig({
       // HTML pages - cache for 1 hour with revalidation
       '/': { headers: { 'cache-control': 'max-age=3600, must-revalidate' } },
       '/sobre': { headers: { 'cache-control': 'max-age=3600, must-revalidate' } },
+      '/sobre/chat': { headers: { 'cache-control': 'max-age=3600, must-revalidate' } },
       '/projetos': { headers: { 'cache-control': 'max-age=3600, must-revalidate' } },
       '/contato': { headers: { 'cache-control': 'max-age=3600, must-revalidate' } },
       

@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/kirap/OneDrive/%C3%81rea%20de%20Trabalho/aika-nakamura-portfolio/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

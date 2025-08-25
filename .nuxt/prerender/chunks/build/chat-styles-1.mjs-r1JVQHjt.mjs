@@ -1,0 +1,4 @@
+const t = ".chat-window-toggle,[class*=chat-toggle],[class*=toggle-button],[id*=chat-toggle]{display:none!important;visibility:hidden!important}#chat-container .chat-window{border-radius:0!important;box-shadow:none!important;height:100%!important;position:relative!important;transform:none!important;width:100%!important}#chat-container{background:#fff;border-radius:1.5rem;overflow:hidden}";
+
+export { t };
+//# sourceMappingURL=chat-styles-1.mjs-r1JVQHjt.mjs.map

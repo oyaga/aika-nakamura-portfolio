@@ -1,0 +1,1 @@
+{"version":3,"file":"useDevice-B3gchbyX.js","sources":["../../../../node_modules/@nuxtjs/device/dist/runtime/composables/useDevice.js"],"sourcesContent":["import { useNuxtApp } from \"#imports\";\nexport const useDevice = () => useNuxtApp().$device;\n"],"names":["useDevice","useNuxtApp"],"mappings":"kCACY,MAACA,EAAY,IAAMC,IAAa","x_google_ignoreList":[0]}
